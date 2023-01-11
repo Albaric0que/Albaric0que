@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on various projects in Factoría F5  
   
 
-- 🌱 I’m currently learning PHP, Laravel  
+- 🌱 I’m currently learning PHP and Laravel  
   
 
 - 👩🏻‍💻Learning, learning, learning...  
