@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on various projects in Factoría F5  
   
 
-- 🌱 I’m currently learning PHP and Laravel 
+- 🌱 I’m currently learning VUE and React
 
 -  👀 Fun fact: It's impossible to sneeze with your eyes open
   
