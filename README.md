@@ -7,7 +7,7 @@
 </br>
   
 
-- 🔭 I’m currently working on various projects in Factoría F5  
+- 🔭 I’m currently working on [HiloDoble](https://github.com/Albaric0que/hilodoble) a marketplace that sells products made of recicled materials. 
   
 - 🌱 I’m currently learning VUE and React
 
