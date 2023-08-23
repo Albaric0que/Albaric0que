@@ -11,7 +11,7 @@
 
 - 👀 Fun fact: It's impossible to sneeze with your eyes open
   
-- 👩🏻‍💻Learning, learning, learning...  
+- 👩🏻‍💻Learning, learning, learning.. 
   
 
 <br/>  
