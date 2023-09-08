@@ -7,7 +7,7 @@
 </br>
   
   
-- 🌱 I’m currently learning Java and improving my JavaScript skills
+- 🌱 I’m currently learning Python and improving my JavaScript skills
 
 - 👀 Fun fact: It's impossible to sneeze with your eyes open
   
