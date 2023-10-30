@@ -2,7 +2,7 @@
 
 </br>
 
-### <div align="center">My name is Alba {👾} I'm a Junior Full Stack Developer in the making.</div>  
+### <div align="center">My name is Alba {👾} I'm a Junior Full Stack Developer.</div>  
 
 </br>
   
