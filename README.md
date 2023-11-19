@@ -8,6 +8,8 @@
   
   
 - 🌱 I’m currently learning TypeScript and Angular
+  
+- 📖 Working with Agile & SCRUM Methodologies
 
 - 👀 Fun fact: It's impossible to sneeze with your eyes open
   
