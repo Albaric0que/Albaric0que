@@ -12,6 +12,8 @@
 - 📖 Working with Agile & SCRUM Methodologies
 
 - 👀 Fun fact: It's impossible to sneeze with your eyes open
+
+- 🤔 Ok, so I just learned that's totally possible to sneeze with your eyes open but most people tend to automatically close them 
   
 - 👩🏻‍💻Learning, learning, learning.. 
   
