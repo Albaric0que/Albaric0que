@@ -7,9 +7,9 @@
 </br>
   
   
-- 🌱 I’m currently learning TypeScript, Angular and React
+- 🌱 I’m currently learning TypeScript, Angular and React.
   
-- 📖 Working with Agile & SCRUM Methodologies
+- 📖 Working with Agile & SCRUM Methodologies.
 
 - 👀 Fun fact: I always say thank you to ChatGPT so when the AI dominate the world it will remember I was a nice human. Millenial science fiction trauma.
 
