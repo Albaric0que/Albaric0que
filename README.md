@@ -11,7 +11,7 @@
   
 - 📖 Working with Agile & SCRUM Methodologies.
 
-- 👀 Fun fact: I always say thank you to ChatGPT so when the AI dominate the world it will remember I was a nice human. Millenial science fiction trauma.
+- 🤖 Fun fact: I always say thank you to ChatGPT so when the AI dominate the world it will remember I was a nice human. Millenial science fiction trauma.
 
 - 👩🏻‍💻 Learning, learning, learning.. 
   
